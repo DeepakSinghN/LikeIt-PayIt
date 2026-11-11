@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "skills": {
+    "21st.dev Magic MCP": {
+      "source": "yousefnabil-soc/claude-apex",
+      "sourceType": "github",
+      "skillPath": "skills/21st-dev-magic/SKILL.md",
+      "computedHash": "e7c243545db24d6cc088686a625544cc4915e0880d9dd3cf8e226a088ee34f66"
+    },
+    "anatomy": {
+      "source": "./local",
+      "sourceType": "local",
+      "skillPath": "anatomy/SKILL.md",
+      "computedHash": ""
+    },
+    "awwwards": {
+      "source": "juliobsz/skills",
+      "sourceType": "github",
+      "skillPath": "awwwards/SKILL.md",
+      "computedHash": "4673b8fadc2a56c62903712bf01325ed113334ab31459d917f2a05be0ba1e873"
+    },
+    "data-storytelling": {
+      "source": "wshobson/agents",
+      "sourceType": "github",
+      "skillPath": "plugins/business-analytics/skills/data-storytelling/SKILL.md",
+      "computedHash": "ddf010accb6f29bb6c751f216b6423af74d20c025b4188762d25c1e71081af01"
+    },
+    "design-taste-frontend": {
+      "source": "Leonxlnx/taste-skill",
+      "sourceType": "github",
+      "skillPath": "skills/taste-skill/SKILL.md",
+      "computedHash": "57f64afe2268436831f00327c3986ead24661324a022024d76665d84ee455537"
+    },
+    "gsap-core": {
+      "source": "greensock/gsap-skills",
+      "sourceType": "github",
+      "skillPath": "skills/gsap-core/SKILL.md",
+      "computedHash": "dfc8ba849fa8b81c8cc60964ee2a5fa8db4b2a2611801cf549a5b267b8284fa5"
+    },
+    "gsap-scrolltrigger": {
+      "source": "greensock/gsap-skills",
+      "sourceType": "github",
+      "skillPath": "skills/gsap-scrolltrigger/SKILL.md",
+      "computedHash": "c29c5a0fb1506a7f577fe68282eafc6df14b8d2b8ecd24f1f05836f5a0957b67"
+    },
+    "jury": {
+      "source": "juliobsz/skills",
+      "sourceType": "github",
+      "skillPath": "jury/SKILL.md",
+      "computedHash": "4d2a744cb7ce6d06b7f657dd95ccbd5bb041c63829b19f54de0ac886fbe7a5bf"
+    },
+    "tailwind-4-docs": {
+      "source": "lombiq/tailwind-agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/tailwind-4-docs/SKILL.md",
+      "computedHash": "263961b82698e3defdb26dd6a1b7328044517e67a3bbe91c1b33bb2a4273f4ee"
+    },
+    "tailwindcss-mobile-first": {
+      "source": "JosiahSiegel/claude-plugin-marketplace",
+      "sourceType": "github",
+      "skillPath": "plugins/tailwindcss-master/skills/tailwindcss-mobile-first/SKILL.md",
+      "computedHash": "bf65c2c7b85041091e3d9ebb6bc64accf168e0f67a0c11f82f69d4eb16ee19b4"
+    },
+    "web-design-guidelines": {
+      "source": "vercel-labs/agent-skills",
+      "sourceType": "github",
+      "skillPath": "skills/web-design-guidelines/SKILL.md",
+      "computedHash": "4f68ae07187fb0d1fb78c88b503d089da4cf5a9d9625d1f2e425b1590bf96d92"
+    }
+  }
+}
